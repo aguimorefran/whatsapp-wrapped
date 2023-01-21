@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "whatsapp-wrapped"
+version = "0.1.0"
+description = ""
+authors = ["Francisco Aguilera <aguimorefran@gmail.com>"]
+readme = "README.md"
+packages = [{include = "whatsapp_wrapped"}]
+
+[tool.poetry.dependencies]
+python = "^3.9"
+pandas = "^1.5.3"
+matplotlib = "^3.6.3"
+numpy = "^1.24.1"
+tqdm = "^4.64.1"
+emoji = "^2.2.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
