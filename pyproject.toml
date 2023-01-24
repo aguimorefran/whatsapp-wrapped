@@ -13,6 +13,8 @@ matplotlib = "^3.6.3"
 numpy = "^1.24.1"
 tqdm = "^4.64.1"
 emoji = "^2.2.0"
+seaborn = "^0.12.2"
+python-levenshtein = "^0.20.9"
 
 
 [build-system]
