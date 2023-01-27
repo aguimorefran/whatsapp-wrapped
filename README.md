@@ -15,5 +15,6 @@ A try to replicate the Spotify wrapped feature for Whatsapp.
 
 ## Before running
 
-1. Run 'poetry install' to install the dependencies
-2. RUn 'pip install tensorflow' to install tensorflow
+1. Run `poetry install` to install the dependencies
+2. Run `pip install tensorflow` to install tensorflow
+3. Run `pip install pysentimiento` to install pysentimiento
